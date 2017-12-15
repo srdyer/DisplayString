@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Mendix",
+      "license": "Apache 2",
+      "author": "Sam Dyer",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
